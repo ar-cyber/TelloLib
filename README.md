@@ -2,7 +2,7 @@
 # TelloLib
 An expansion of the djitellopy with shapes
 ## Usage:
-```
+```py
 import TelloLib
 
 tello = TelloLib.Tello()
